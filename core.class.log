@@ -1,0 +1,116 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213318107706@s.whatsapp.net',
+    fromMe: false,
+    id: '3A58ECC1500866BE9FBD',
+    participant: undefined
+  },
+  messageTimestamp: 1697869573,
+  pushName: 'Javi Enriquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Javi Enriquez',
+  body: 'Hola',
+  from: '5213318107706'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb4b3855-3d15-4bbc-ad55-31925c48de39',
+  keyword: 'key_30737a81-640f-4d04-b48e-1e9827785cf9',
+  answer: 'Bienvenido',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '44e58188a2f65e0868e1fdd91a4883c9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_670da6f2-8c50-4805-a576-1284dca7a022',
+  keyword: 'ans_eb4b3855-3d15-4bbc-ad55-31925c48de39',
+  answer: 'Museo Mundial\n' +
+    'Escrcibe *MOSTRAR* para ver la fotografia\n' +
+    'Escribe *GUARDAR* para almacenar los datos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '80ad4a46701fbaf36b50400810cb9f9b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213318107706@s.whatsapp.net',
+    fromMe: false,
+    id: '3A43E726644E759C6F0A',
+    participant: undefined
+  },
+  messageTimestamp: 1697869578,
+  pushName: 'Javi Enriquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Guardar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Javi Enriquez',
+  body: 'Guardar',
+  from: '5213318107706'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4ace9baf-c79c-4a63-b2b6-5c5e40250acf',
+  keyword: 'key_27c06062-ca4a-4b8d-a344-5343a8103575',
+  answer: 'cual es tu email? ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be6efde391cdc44366aeb12574a18ef4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213318107706@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4E8BF095E0751C4047',
+    participant: undefined
+  },
+  messageTimestamp: 1697869583,
+  pushName: 'Javi Enriquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Joaquín',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Javi Enriquez',
+  body: 'Joaquín',
+  from: '5213318107706'
+}
